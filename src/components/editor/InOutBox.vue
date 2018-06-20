@@ -44,7 +44,7 @@
     height: 160px;
     max-height: 160px;
     overflow-y: auto;
-    overflow-x: hidden;
+    overflow-x: auto;
     background: #202020 !important;
     border: none;
     border-right: 1px solid #272727; 
